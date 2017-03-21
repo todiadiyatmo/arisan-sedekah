@@ -51,7 +51,7 @@ KCP Yogyakarta
 
 1. PIC memiliki berkewajiban mencari penerima sedekah setiap bulan.
 2. Dalam menentukan penerima sedekah PIC wajib memberi justifikasi terhadap pilihanya dan memberikan gambaran umum kondisi penerima sedekah. Justifikasi ini ditulis dalam bentuk 5W dan 1H (What,When,Who,Why,Where dan How)
-3. Untuk pemilihan penerima dana sedekah dapat mengikuti [panduan ini](#panduan-sedekah).
+3. Untuk pemilihan penerima dana sedekah dapat mengikuti [panduan ini](#penerima-sedekah).
 
 Contoh :
 
