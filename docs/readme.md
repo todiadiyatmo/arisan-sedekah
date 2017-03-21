@@ -21,7 +21,13 @@ Adapun keutamaan yang ditonjolkan dalam group ini adalah _sedekah yang dilakukan
 
 ## Tata Cara Sedekah
 
-Setiap bulan para anggota mentransfer sedekahnya ke PIC sedekah yang aktif. Kemudian melakukan konfirmasi melalui form ini : https://airtable.com/shr7bgjRfLAdb7O1F
+Setiap bulan para anggota mentransfer sedekahnya ke Aicha sedekah yang aktif. Kemudian melakukan konfirmasi melalui form ini : https://airtable.com/shr7bgjRfLAdb7O1F
+
+### Rekening Aicha
+```
+Bank XXX
+KCP Yogyakarta
+```
 
 ## Person In Charge (PIC)
 
@@ -45,7 +51,7 @@ Setiap bulan para anggota mentransfer sedekahnya ke PIC sedekah yang aktif. Kemu
 
 1. PIC memiliki berkewajiban mencari penerima sedekah setiap bulan.
 2. Dalam menentukan penerima sedekah PIC wajib memberi justifikasi terhadap pilihanya dan memberikan gambaran umum kondisi penerima sedekah. Justifikasi ini ditulis dalam bentuk 5W dan 1H (What,When,Who,Why,Where dan How)
-3. Untuk pemilihan penerima dana sedekah dapat mengikuti (paduan ini)
+3. Untuk pemilihan penerima dana sedekah dapat mengikuti [panduan ini](#panduan-sedekah).
 
 Contoh :
 
@@ -70,7 +76,7 @@ Contoh :
 - Kebijaksaan siapa yang akan menerima sedekah adalah ditentukan oleh PIC. Setiap PIC tentunya memiliki tingkat kepedulian yang berbeda terhadap suatu hal yang kadarnya berbeda antara satu PIC dengan PIC lain.
 - Hal ini dimaksudkan untuk menambah keberagaman dan wawasan anggota group ini agar aware terhadap masalah-masalah yang terjadi di sekitar kita. Mungkin akan ada PIC yang lebih aware ke masalah pendidikan, ada juga yang fokus di masalah pengembangan dakwah. Bisa juga jika dalam suatu bulan ada kejadian luar biasa misalnya bencana, PIC dapat memilih untuk berpartisipasi menyumbang korban bencana alam pada periode `Arisan Sedekah` yang dia pegang.
 
-## Sedekah Langsung
+## Panduan Sedekah
 
 Untuk pemilihan penerima sedekah sebisa langsung ke yang membutuhkan / mengurangi perantara. Karena setiap perantara, apapun badan organisasinya pasti membutuhkan dana operasional yang kemungkinan besar menggunakan dana sedekah kita
 
