@@ -60,7 +60,7 @@ Contoh :
 
 **Todi memilih untuk menyalurkan sedekah ke masjid pogung dalangan (MPD).**
 
->"MPD merupakan pusat dakwah sunnah di pogung dan kebetulan saat ini sedang membutuhkan dana besar untuk renovasi. Salah satu keutamaan membantu pembangunan masjid adalah akan menjadi amal jariyah kita. Penyaluran dana akan dilakukan melalui transfer ke rekening MPD sesuai dengan nomor yang ada pada facebook page ini (MPD)[https://www.facebook.com/masjidmpd/?fref=ts]"
+>"MPD merupakan pusat dakwah sunnah di pogung dan kebetulan saat ini sedang membutuhkan dana besar untuk renovasi. Salah satu keutamaan membantu pembangunan masjid adalah akan menjadi amal jariyah kita. Penyaluran dana akan dilakukan melalui transfer ke rekening MPD sesuai dengan nomor yang ada pada facebook page ini [MPD](https://www.facebook.com/masjidmpd/?fref=ts)"
 
 ## Keikutsertaan Sedekah
 - Sifat sedekah adalah sukarela dan ikhlas
@@ -93,11 +93,10 @@ Alasan : Dalam menyalurkan sedekah pembangunan masjid tentu kita tidak dapat lan
 
 Alasan : Saudara muslim kita di suriah adalah saudara yang berhak menerima bantuan. Untuk menyalurkan bantuan secara langsung jelas tidak mungkin. Menurut saya Misi Medis adalah lembaga yang menyalurkan dana ke suriah secara langsung dan _involve_ dalam berbagai kegiatan kemanusiaan di Suriah. Untuk keterangan tentang Misi Medis dapat melihat link dibawah
 
-- [](http://misimedis.com/)
-- [](https://www.youtube.com/watch?v=uEVR-IeOzlA
-ts)
-- [](http://www.cnnindonesia.com/internasional/20151006174411-106-83222/perjalanan-relawan-indonesia-antarkan-rp22-m-ke-suriah/)
-- [](https://www.facebook.com/Misi-Medis-Suriah-803766712980018/?fref=)
+- [http://misimedis.com/](http://misimedis.com/)
+- [https://www.youtube.com/watch?v=uEVR-IeOzlAts](https://www.youtube.com/watch?v=uEVR-IeOzlAts)
+- [http://www.cnnindonesia.com/internasional/20151006174411-106-83222/perjalanan-relawan-indonesia-antarkan-rp22-m-ke-suriah/](http://www.cnnindonesia.com/internasional/20151006174411-106-83222/perjalanan-relawan-indonesia-antarkan-rp22-m-ke-suriah/)
+- [https://www.facebook.com/Misi-Medis-Suriah-803766712980018/?fref=](https://www.facebook.com/Misi-Medis-Suriah-803766712980018/?fref=)
 
 ### Contoh penerima sedekah yang tidak dianjurkan dalam `Arisan Sedekah`
 
