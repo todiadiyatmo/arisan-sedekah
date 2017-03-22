@@ -1,4 +1,4 @@
-`Arisan Sedekah` adalah suatu perkumpulan muda-mudi Indonesia yang terpanggil untuk menyedekahkan sebagian hartanya untuk membantu saudara kita yang membutuhkan.
+`Arisan Sedekah` adalah Perkumpulan muda-mudi Indonesia yang mengumpulkan uang secara teratur setiap bulan dengan niat disedekahkan. Setelah uang terkumpul, salah satu dari anggota kelompok akan bertanggung jawab sebagai PIC pada bulan berikutnya untuk mendistribusikan donasi bulanan tersebut.
 
 Adapun keutamaan yang ditonjolkan dalam group ini adalah _sedekah yang dilakukan secara rutin_.
 
@@ -23,10 +23,13 @@ Adapun keutamaan yang ditonjolkan dalam group ini adalah _sedekah yang dilakukan
 
 Setiap bulan para anggota mentransfer sedekahnya ke Aicha sedekah yang aktif. Kemudian melakukan konfirmasi melalui form ini : https://airtable.com/shr7bgjRfLAdb7O1F
 
-### Rekening Aicha
+### Rekening Aicha (BCA)
+
 ```
-Bank XXX
-KCP Yogyakarta
+Rekening a.n Elleriz Aisha Khasandy
+Bank BCA
+685-030-3264
+KCP Senen
 ```
 
 ## Person In Charge (PIC)
@@ -42,10 +45,6 @@ KCP Yogyakarta
 3. Todi
 4. Enggar
 5. Sekar
-6. ???
-7. ???
-8. ???
-
 
 ## Penyaluran Dana Sedekah
 
@@ -94,11 +93,11 @@ Alasan : Dalam menyalurkan sedekah pembangunan masjid tentu kita tidak dapat lan
 
 Alasan : Saudara muslim kita di suriah adalah saudara yang berhak menerima bantuan. Untuk menyalurkan bantuan secara langsung jelas tidak mungkin. Menurut saya Misi Medis adalah lembaga yang menyalurkan dana ke suriah secara langsung dan _involve_ dalam berbagai kegiatan kemanusiaan di Suriah. Untuk keterangan tentang Misi Medis dapat melihat link dibawah
 
-- http://misimedis.com/
-- https://www.youtube.com/watch?v=uEVR-IeOzlA
-ts
-- http://www.cnnindonesia.com/internasional/20151006174411-106-83222/perjalanan-relawan-indonesia-antarkan-rp22-m-ke-suriah/
-- https://www.facebook.com/Misi-Medis-Suriah-803766712980018/?fref=
+- [](http://misimedis.com/)
+- [](https://www.youtube.com/watch?v=uEVR-IeOzlA
+ts)
+- [](http://www.cnnindonesia.com/internasional/20151006174411-106-83222/perjalanan-relawan-indonesia-antarkan-rp22-m-ke-suriah/)
+- [](https://www.facebook.com/Misi-Medis-Suriah-803766712980018/?fref=)
 
 ### Contoh penerima sedekah yang tidak dianjurkan dalam `Arisan Sedekah`
 
