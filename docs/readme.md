@@ -21,7 +21,7 @@ Adapun keutamaan yang ditonjolkan dalam group ini adalah _sedekah yang dilakukan
 
 ## Tata Cara Sedekah
 
-Setiap bulan para anggota mentransfer sedekahnya ke rekening Aicha yang aktif. Kemudian melakukan konfirmasi melalui form ini : https://airtable.com/shr7bgjRfLAdb7O1F
+Setiap bulan para anggota mentransfer sedekahnya ke rekening Aicha yang aktif. Kemudian melakukan konfirmasi melalui [form ini](https://airtable.com/shr7bgjRfLAdb7O1F)
 
 Besaran minimal sedekah tiap bulan dalam arisan ini adalah Rp 50.000,00 (Lima puluh ribu rupiah). Adapun jika ingin bersedekah lebih banyak dipersilahkan. Ketika bersedekah niatkan sedekah kita hanya untuk Allah agar mendapat ganjaran yang paling baik.
 
